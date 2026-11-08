@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# rendus (régénérables, trop lourds pour Git)
+**/build/
+**/audio/music_sfx.wav
+# vidéos de référence tierces (droits d'auteur)
+**/exemple/
